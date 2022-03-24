@@ -27,6 +27,5 @@ int main()
 	Point<char> pos3('P', 'F');
 	pos3.ShowPosition();
 
-
 	return 0;
 }
